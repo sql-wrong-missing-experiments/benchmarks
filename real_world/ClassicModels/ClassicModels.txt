@@ -1,0 +1,14 @@
+http://www.eclipse.org/birt/documentation/sample-database.php
+
+
+The database consists of eight tables:
+
+Offices: sales offices
+Employees: All employees, including sales reps who work with customers.
+Customers
+Orders: Orders placed by customers
+Order Details: Line items within an order.
+Payments: Payments made by customers against their account
+Products: The list of scale model cars
+Product Lines: The list of product line classifcation
+
